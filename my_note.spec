@@ -5,7 +5,9 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[
+        ('combined_ca.pem', '.'),
+    ],
     hiddenimports=['bot_receiver'],
     hookspath=[],
     hooksconfig={},

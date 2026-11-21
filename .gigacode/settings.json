@@ -13,7 +13,8 @@
       "Bash(get-content *)",
       "Bash(::tostring)",
       "Bash(del *)",
-      "Bash(findstr *)"
+      "Bash(findstr *)",
+      "Bash(pyinstaller *)"
     ]
   },
   "$version": 3
